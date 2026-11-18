@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1276
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Ar,DIN Next LT W23 Bold,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,1.2,2,60,60,54,-1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.83,0:00:08.25,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}يا {\alpha&HFF&\t(250,375,\alpha&H00&)}رفاق، {\alpha&HFF&\t(500,625,\alpha&H00&)}لا {\alpha&HFF&\t(750,875,\alpha&H00&)}تنسوا
+Dialogue: 0,0:00:09.09,0:00:10.38,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}ما {\alpha&HFF&\t(208,333,\alpha&H00&)}يحدث {\alpha&HFF&\t(250,375,\alpha&H00&)}في {\alpha&HFF&\t(708,833,\alpha&H00&)}العالم
+Dialogue: 0,0:00:11.21,0:00:12.79,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}علينا {\alpha&HFF&\t(333,458,\alpha&H00&)}أن {\alpha&HFF&\t(541,666,\alpha&H00&)}ندعو {\alpha&HFF&\t(875,1000,\alpha&H00&)}لإخواننا
+Dialogue: 0,0:00:13.17,0:00:14.50,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}وأخواتنا {\alpha&HFF&\t(83,208,\alpha&H00&)}في {\alpha&HFF&\t(708,833,\alpha&H00&)}فلسـ..طين
+Dialogue: 0,0:00:15.00,0:00:16.75,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}والكونغو {\alpha&HFF&\t(458,583,\alpha&H00&)}والسودان {\alpha&HFF&\t(958,1083,\alpha&H00&)}وأوكرانيا
+Dialogue: 0,0:00:17.17,0:00:18.09,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}هناك {\alpha&HFF&\t(166,291,\alpha&H00&)}أناس {\alpha&HFF&\t(333,458,\alpha&H00&)}يعانون {\alpha&HFF&\t(500,625,\alpha&H00&)}في
+Dialogue: 0,0:00:18.34,0:00:19.09,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}كل {\alpha&HFF&\t(208,333,\alpha&H00&)}أنحاء {\alpha&HFF&\t(375,500,\alpha&H00&)}العالم
+Dialogue: 0,0:00:19.75,0:00:22.17,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}يا {\alpha&HFF&\t(333,458,\alpha&H00&)}رفاق، {\alpha&HFF&\t(666,791,\alpha&H00&)}أنا {\alpha&HFF&\t(1000,1125,\alpha&H00&)}وعمر {\alpha&HFF&\t(1333,1458,\alpha&H00&)}نتقاتل
+Dialogue: 0,0:00:22.71,0:00:24.46,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}لكننا {\alpha&HFF&\t(333,458,\alpha&H00&)}وافقنا {\alpha&HFF&\t(666,791,\alpha&H00&)}على {\alpha&HFF&\t(1000,1125,\alpha&H00&)}القتال
+Dialogue: 0,0:00:24.88,0:00:25.42,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}حسنًا؟
+Dialogue: 0,0:00:25.50,0:00:26.96,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}أما {\alpha&HFF&\t(208,333,\alpha&H00&)}حين {\alpha&HFF&\t(416,541,\alpha&H00&)}يواجه {\alpha&HFF&\t(583,708,\alpha&H00&)}الأطفال {\alpha&HFF&\t(791,916,\alpha&H00&)}القـ..نابل
+Dialogue: 0,0:00:27.42,0:00:28.25,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}فالأمر {\alpha&HFF&\t(375,500,\alpha&H00&)}مختلف
+Dialogue: 0,0:00:28.54,0:00:29.50,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}أرجوكم، {\alpha&HFF&\t(41,166,\alpha&H00&)}ادعوا {\alpha&HFF&\t(250,375,\alpha&H00&)}لهم
+Dialogue: 0,0:00:29.75,0:00:30.63,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}لا {\alpha&HFF&\t(166,291,\alpha&H00&)}تنسوهم {\alpha&HFF&\t(333,458,\alpha&H00&)}يا {\alpha&HFF&\t(500,625,\alpha&H00&)}رفاق
+Dialogue: 0,0:00:33.42,0:00:34.34,Ar,,0,0,0,,{\alpha&HFF&\t(0,125,\alpha&H00&)}رسالة {\alpha&HFF&\t(125,250,\alpha&H00&)}مؤثرة {\alpha&HFF&\t(166,291,\alpha&H00&)}يا {\alpha&HFF&\t(458,583,\alpha&H00&)}صديقي
