@@ -1,0 +1,6 @@
+video-tools/.venv/
+video-tools/.cache/
+video-tools/fonts/*.otf
+video-tools/fonts/*.ttf
+__pycache__/
+*.pyc
