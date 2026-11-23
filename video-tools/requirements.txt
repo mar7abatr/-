@@ -1,0 +1,13 @@
+# Core: rendering, Arabic text, geometry, audio
+pillow
+numpy
+scipy
+shapely
+pycairo
+# Speech-to-text with word timestamps (voice-over sync)
+faster-whisper
+# Person cut-out (background removal)
+rembg[cpu]
+# Text/object removal (LaMa inpainting); installed with --no-deps by the installers
+opencv-python-headless
+fire
