@@ -1,0 +1,6 @@
+ 11.60- 11.70s  icon icon_olive                   over=  111px  bbox=(804, 1662, 889, 1746)
+ 11.60- 11.70s  icon icon_wheat                   over=  113px  bbox=(603, 1663, 687, 1748)
+ 11.60- 11.70s  icon icon_crate                   over=  117px  bbox=(401, 1668, 485, 1752)
+ 11.60- 11.70s  icon icon_grapes                  over=  120px  bbox=(199, 1671, 283, 1755)
+ 11.70- 11.70s  text سرقة                         over=   11px  bbox=(873, 649, 1011, 701)
+ 11.90- 17.90s  icon icon_tree                    over=  241px  bbox=(-161, 338, 15, 515)
