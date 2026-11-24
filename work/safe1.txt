@@ -1,0 +1,5 @@
+ 11.60- 11.60s  icon icon_olive                   over=   23px  bbox=(784, 1580, 862, 1658)
+ 11.60- 11.60s  icon icon_wheat                   over=   24px  bbox=(598, 1581, 676, 1659)
+ 11.60- 11.60s  icon icon_crate                   over=   27px  bbox=(412, 1585, 490, 1662)
+ 11.60- 11.60s  icon icon_grapes                  over=   31px  bbox=(225, 1588, 303, 1666)
+ 12.00- 17.80s  icon icon_tree                    over=  241px  bbox=(-161, 338, 15, 515)
